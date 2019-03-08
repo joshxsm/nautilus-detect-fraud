@@ -1,7 +1,7 @@
 # nautilus-detect-fraud
 Prototype bot to detect fraud in wallapop.es
 
-Estoy diseñando un sistema prototipo de un bot en python / php que detecta fraude y contenido fraudulento “in-live” a todas la conversaciones iniciadas para los nuevos productos, por ejemplo:
+Un sistema prototipo de un bot en python / php que detecta fraude y contenido fraudulento “in-live” a todas la conversaciones iniciadas para los nuevos productos, por ejemplo:
 
 
 
